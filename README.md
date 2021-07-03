@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emiliano Quiroga
 - 👀 I’m interested in code, music, literature, cooking, cats, nature and that kind of stuff!
-- 🌱 I’m currently learning JS - React
+- 🌱 I’m currently learning JS 
 - 💞️ I’m looking to become a Front-End Dev!
 - 📫 How to reach me ... /in/emquiroga/
 
