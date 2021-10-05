@@ -1,6 +1,6 @@
-### Hello there! Emi here (aka [Clixs][website]) 👋
+## Hello there! Emi here (aka [Clixs][website]) 👋
 
-## I'm a frontend developer based on La Plata, Argentina.
+### I'm a frontend developer based on La Plata, Argentina.
 
 - 🤩 I just finished my first portfolio, see it [here][website]!
 - 🌱 I'm currently deepening my learning in React.js, Redux and related libraries.
