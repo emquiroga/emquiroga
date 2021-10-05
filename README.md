@@ -2,6 +2,8 @@
 
 ### I'm a frontend developer based on La Plata, Argentina.
 
+### Also...
+
 - 🤩 I just finished my first portfolio, see it [here][website]!
 - 🌱 I'm currently deepening my learning in React.js, Redux and related libraries.
 - 💼 I'm looking for a IT job for living and improving my knowledge.
