@@ -37,7 +37,7 @@
 
 ### ⭐ Latest works
 
-- [Shortly : URL Shortening API. Coded with React and Styled components (still in progress)](https://url-shrt-api.netlify.app/)
+- [Shortly : URL Shortening API. Coded with React and Styled components](https://url-shrt-api.netlify.app/)
 - [Crowfund: Product Landing Page. Coded with React and Sass](https://relaxed-noether-77d0b1.netlify.app/)
 - [Personal Portfolio. Coded with React, Sass and tons of ❤️](https://clixs-dev.netlify.app/)
 
