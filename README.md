@@ -4,8 +4,8 @@
 
 ### Also...
 
-- 🤩 Former creative writer, gastronomic worker and musician.
-- 🌱 I'm currently deepening my learning in React.js & starting a Full Stack Dev curse!
+- 🤩 Former creative writer and gastronomic worker.
+- 🌱 I'm currently deepening my knowledge in React.js & starting a Full Stack Dev bootcamp!
 - 💼 I'm looking for a IT job for living and improving my knowledge.
 - 🥅 It's my goal to become a high-skilled frontend and UI/UX designer.
 - 😻😻 Father of two beatiful kitties.
