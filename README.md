@@ -6,8 +6,8 @@
 
 - 🤩 Former creative writer and gastronomic worker.
 - 🌱 I'm currently deepening my knowledge in React.js & starting a Full Stack Dev bootcamp!
-- 💼 I'm looking for a IT job for living and improving my knowledge.
-- 🥅 It's my goal to become a high-skilled frontend and UI/UX designer.
+- 💼 I'm looking for a IT job for living and improve my knowledge.
+- 🥅 It's my goal to become a Full Stack Engineer and UI/UX designer.
 - 😻😻 Father of two beatiful kitties.
 
 ### Connect with me:
