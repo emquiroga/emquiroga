@@ -5,7 +5,7 @@
 ### Also...
 
 - 🤩 Former creative writer, gastronomic worker and musician.
-- 🌱 I'm currently deepening my learning in React.js, Redux and related libraries.
+- 🌱 I'm currently deepening my learning in React.js & starting a Full Stack Dev curse!
 - 💼 I'm looking for a IT job for living and improving my knowledge.
 - 🥅 It's my goal to become a high-skilled frontend and UI/UX designer.
 - 😻😻 Father of two beatiful kitties.
