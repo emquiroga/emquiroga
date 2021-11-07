@@ -45,7 +45,7 @@
 
 [website]: https://clixs-dev.netlify.app/
 [twitter]: https://twitter.com/ModernClixs
-[email]: emiliano.quiroga093@gmail.com
+[email]: mailto:emiliano.quiroga093@gmail.com
 [linkedin]: https://linkedin.com/in/emquiroga
 [portrait]: "https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg"
 
