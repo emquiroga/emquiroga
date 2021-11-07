@@ -1,4 +1,4 @@
-## ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
+# ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
 
 ### Soy Frontend Developer y vivo en La Plata, Buenos Aires.
 
