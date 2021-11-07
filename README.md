@@ -1,4 +1,4 @@
-[<img align="left" alt="Clixs | Twitter" width="350px" src="https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg" />]
+<img align="left" alt="Clixs" width="350px" src="https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg" />
 
 ## ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
 
