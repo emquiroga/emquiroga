@@ -4,7 +4,7 @@
 
 ### Otros datos sobre mí:
 
-- 🤩 Fui gastronómico y escritor durante diez años.
+- 👨‍🍳 ✍️ Fui gastronómico y escritor durante diez años.
 - 🌱 Actualmente me encuentro cursando un bootcamp Fullstack con .php y Angular.
 - 💼 Estoy en búsqueda de mi primer experiencia laboral en el ámbito IT como Frontend Dev (React.js)
 - 🥅 Mi sueño es convertirme en Software Engineer & UI/UX designer.
