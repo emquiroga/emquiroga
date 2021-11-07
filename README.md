@@ -1,5 +1,4 @@
-
-<img align="center" alt="Clixs" width="350px" src="https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg" />
+<p align="center"><img alt="Clixs" width="350px" src="https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg" /></p>
 
 <br>
 <br>
