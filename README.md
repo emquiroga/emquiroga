@@ -8,7 +8,7 @@
 - 🌱 Actualmente me encuentro cursando un bootcamp Fullstack con .php y Angular.
 - 💼 Estoy en búsqueda de mi primer experiencia laboral en el ámbito IT como Frontend Dev (React.js)
 - 🥅 Mi sueño es convertirme en Software Engineer & UI/UX designer.
-- 😻😻 Tengo dos GatHub Copilots.
+- 😻😻 Tengo dos CatHub Copilots.
 
 ### Podemos contactarnos a través de:
 
