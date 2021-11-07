@@ -1,4 +1,4 @@
-<p align="center"><img alt="Clixs" style="border-radius: 50%" width="350px" src="https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg" /></p>
+<p align="center"><img alt="Clixs" style="border-radius: 50%" width="350px" src=[portrait] /></p>
 
 <br>
 <br>
@@ -50,7 +50,7 @@
 [twitter]: https://twitter.com/ModernClixs
 [email]: emiliano.quiroga093@gmail.com
 [linkedin]: https://linkedin.com/in/emquiroga
-[portrait] : "https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg"
+[portrait]: "https://github.com/emquiroga/personal-portfolio/blob/main/dist/assets/73fa1b71db7c91a2b8e15e2191f319c2.jpg"
 
 <!---
 emquiroga/emquiroga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
