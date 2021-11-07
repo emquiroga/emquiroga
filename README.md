@@ -31,6 +31,8 @@
 <br />
 <br />
 
+### [CV Online](https://drive.google.com/file/d/1Qh2LWDBK8I7DXEg5M1hSMB-suj-51FBC/view)
+
 ---
 
 ### ⭐ Últimos proyectos
