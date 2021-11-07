@@ -1,16 +1,16 @@
-## Hello there! Emi here (aka [Clixs][website]) 👋
+## ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
 
-### I'm a frontend developer based on La Plata, Argentina.
+### Soy un Frontend Developer y vivo en La Plata, Buenos Aires.
 
-### Also...
+### Otros datos sobre mí:
 
-- 🤩 Former creative writer and gastronomic worker.
-- 🌱 I'm currently deepening my knowledge in React.js & starting a Full Stack Dev bootcamp!
-- 💼 I'm looking for a IT job for living and improve my knowledge.
-- 🥅 It's my goal to become a Full Stack Engineer and UI/UX designer.
-- 😻😻 Father of two beatiful kitties.
+- 🤩 Fui gastronómico y escritor durante diez años.
+- 🌱 Actualmente me encuentro cursando un bootcamp Fullstack con .php y Angular.
+- 💼 Estoy en búsqueda de mi primer experiencia laboral en el ámbito IT como Frontend Dev (React.js)
+- 🥅 Mi sueño es convertirme en Software Engineer & UI/UX designer.
+- 😻😻 Tengo dos GatHub Copilots.
 
-### Connect with me:
+### Podemos contactarnos a través de:
 
 [<img align="left" alt="Clixs | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Clixs | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -18,30 +18,26 @@
 
 <br />
 
-### Languages and Tools:
+### Mis Tech-Skills:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />
 
 ---
 
-### ⭐ Latest works
+### ⭐ Últimos proyectos
 
-- [Shortly : URL Shortening API. Coded with React and Styled components](https://url-shrt-api.netlify.app/)
-- [Crowfund: Product Landing Page. Coded with React and Sass](https://relaxed-noether-77d0b1.netlify.app/)
-- [Personal Portfolio. Coded with React, Sass and tons of ❤️](https://clixs-dev.netlify.app/)
+- [GifHub - Gifs App](https://github.com/emquiroga/gifhub)
+- [React.js Alkemy Challenge: SuperHero App](https://github.com/emquiroga/superheroes-and-villains-app)
+- [Calculadora de Pagos React & Redux & Firebase](https://github.com/emquiroga/crud-react-redux)
 
-➡️ [more projects...](https://github.com/emquiroga?tab=repositories)
+➡️ [ver más proyectos...](https://github.com/emquiroga?tab=repositories)
 
 ---
 
