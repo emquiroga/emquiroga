@@ -4,8 +4,8 @@
 
 ### Otros datos sobre mí:
 
-- 👨‍🍳 ✍️ Fui gastronómico y escritor durante diez años.
-- 🌱 Actualmente me encuentro cursando un bootcamp Fullstack con .php y Angular.
+- 👨‍🍳 ✍️ Fui gastronómico y escritor durante 8 años.
+- 🌱 Current learning: Aceleración en React con Alkemy Labs.
 - 💼 Estoy en búsqueda de mi primer experiencia laboral en el ámbito IT como Frontend Dev (React.js)
 - 🥅 Mi sueño es convertirme en Software Engineer & UI/UX designer.
 - 😻😻 Tengo dos CatHub Copilots.
