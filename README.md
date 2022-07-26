@@ -1,4 +1,4 @@
-# ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
+# Emiliano Quiroga
 
 ### Soy Software Developer especializado en Front End (React.js).
 ### Vivo en la ciudad de La Plata, Argentina.
