@@ -1,14 +1,16 @@
 # ¡Saludos! Soy Emi y te doy la bienvenida a mi perfil de GitHub.
 
-### Soy Frontend Developer y vivo en La Plata, Buenos Aires.
+### Soy Software Developer especializado en Front End (React.js).
+### Vivo en la ciudad de La Plata, Argentina.
+### Trabajo como Desarrollador de Software en Andreani Grupo Logístico
+### Ofrezco mi servicio como consultor / desarrollador freelance en proyectos de desarrollo web frontend o mobile (React / React Native).
 
 ### Otros datos sobre mí:
 
 - 👨‍🍳 ✍️ Fui gastronómico y escritor durante 8 años.
-- 🌱 Current learning: Aceleración en React con Alkemy Labs.
-- 💼 Estoy en búsqueda de mi primer experiencia laboral en el ámbito IT como Frontend Dev (React.js)
-- 🥅 Mi sueño es convertirme en Software Engineer & UI/UX designer.
-- 😻😻 Tengo dos CatHub Copilots.
+- 🌱 Current learning: React-Native.
+- 🥅 Goal: Frontend Engineer.
+- 😻😻 Copilots: Frida & Pajarito.
 
 ### Podemos contactarnos a través de:
 
@@ -18,36 +20,8 @@
 
 <br />
 
-### Mis Tech-Skills:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
-
-
-
-
-<br />
-<br />
-
-### <a href="https://drive.google.com/file/d/1Qh2LWDBK8I7DXEg5M1hSMB-suj-51FBC/view" target="_blank">CV Online</a>
-
----
-
-### ⭐ Últimos proyectos
-
-- [GifHub - Gifs App](https://github.com/emquiroga/gifhub)
-- [React.js Alkemy Challenge: SuperHero App](https://github.com/emquiroga/superheroes-and-villains-app)
-- [Calculadora de Pagos React & Redux & Firebase](https://github.com/emquiroga/crud-react-redux)
-
-➡️ [ver más proyectos...](https://github.com/emquiroga?tab=repositories)
-
----
+### <3 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <3
 
 [website]: https://clixs-dev.netlify.app/
 [twitter]: https://twitter.com/ModernClixs
