@@ -5,16 +5,19 @@
 ### Trabajo como Desarrollador de Software en Andreani Grupo Logístico
 ### Ofrezco mi servicio como consultor / desarrollador freelance en proyectos de desarrollo web frontend o mobile (React / React Native).
 
+<br />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br />
+
 ### Otros datos sobre mí:
 
 - 👨‍🍳 ✍️ Fui gastronómico y escritor durante 8 años.
 - 🌱 Current learning: React-Native.
 - 🥅 Goal: Frontend Engineer.
 - 😻😻 Copilots: Frida & Pajarito.
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <3
-
 
 ### Podemos contactarnos a través de:
 
